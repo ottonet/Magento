@@ -1,0 +1,13 @@
+{
+    "name": "mollie/magento",
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "description":"iDEAL, Creditcard, Bancontact/Mister Cash, SOFORT, Bank transfer, Bitcoin, PayPal & paysafecard for Magento",
+    "homepage":"https://github.com/mollie/Magento", 
+    "authors":[
+        {
+            "name":"Mollie BV",
+            "email":"magentosuppoirt@mollie.com"
+        }
+    ]
+}
