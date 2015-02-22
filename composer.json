@@ -13,6 +13,6 @@
         }
     ],
     "require": {
-	    "mollie/mollie-api-php": "1.*"
+	    "mollie/mollie-api-php": "*"
     }
 }
